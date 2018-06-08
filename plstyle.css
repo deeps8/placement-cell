@@ -1,0 +1,98 @@
+.navbar-link , a{
+	color: white !important;
+}
+body{
+	color:white !important;
+	background:linear-gradient(to top right,#4a4153,#6c1d2b);
+}
+a:hover{
+	text-decoration: none !important;
+}
+.about-us{
+	text-align: left;
+	font-size: 18px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: 100 !important;
+}
+.feed-container{
+	margin: 40px auto;
+    color: #bc2c45;
+    font-weight: 500;
+    background: white;
+    border-radius: 3px;
+        box-shadow: 2px 2px 6px #201f1f;
+}
+.feed-body{
+	border-radius: 5px;
+	padding: 20px 15px;
+}
+.drives-container{
+	border-top: 2px solid #bc2c45;
+	margin-bottom: 50px;
+	padding-top:50px; 
+	position: relative;
+}
+.drive{
+	background: white;
+	/*height: 200px;*/
+	border-radius: 5px;
+	color: #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 2px 2px 6px #201f1f;
+}
+.drive h6{
+	background: #6dc65a;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 700 !important;
+}
+.drive p{
+	font-weight: 400;
+}
+.right-arrow{
+	background: white;
+    color: #6dc65a;
+    font-size: 20px;
+    padding: 8px 17px;
+    position: absolute;
+    border-radius: 100%;
+    position: absolute;
+    right: -8px;
+    box-shadow: 2px 2px 16px black;
+    z-index: 100;
+    top: 129px;
+    cursor: pointer;
+}
+.left{
+	left: 0;
+    right: unset;
+}
+.slide-wale{
+	background: white;
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	margin-top: 20px;
+}
+.slide-anime{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.footer{
+	background: white;
+    color: #333;
+    padding: 40px;
+    font-weight: 500;
+}
+.lt{
+	float: right;
+}
+.footer span{
+	margin: 0 0 0 20px;
+}
+.footer span a{
+	color: unset !important; 
+}
